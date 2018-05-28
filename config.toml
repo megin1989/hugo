@@ -1,0 +1,18 @@
+baseurl                 = "/"               # Your domain name. Must end with "/"
+languageCode            = "en-us"
+title                   = "Call me Sam"
+theme                   = "sam"
+
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/gallery"
+    text = "gallery"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who is sam?"
+    
