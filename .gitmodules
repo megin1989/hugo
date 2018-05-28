@@ -1,0 +1,6 @@
+[submodule "opsfolio"]
+	path = opsfolio
+	url = https://github.com/megin1989/opsfolio
+[submodule "content/opsfolio"]
+	path = content/opsfolio
+	url = https://github.com/megin1989/opsfolio
