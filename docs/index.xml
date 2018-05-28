@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Call me Sam</title>
-    <link>/</link>
+    <link>https://github.com/megin1989/hugo/</link>
     <description>Recent content on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 18:09:13 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/megin1989/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://github.com/megin1989/hugo/contact/</link>
       <pubDate>Fri, 25 May 2018 18:09:13 +0530</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://github.com/megin1989/hugo/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Page</title>
-      <link>/page/</link>
+      <link>https://github.com/megin1989/hugo/page/</link>
       <pubDate>Fri, 25 May 2018 17:58:29 +0530</pubDate>
       
-      <guid>/page/</guid>
+      <guid>https://github.com/megin1989/hugo/page/</guid>
       <description>Where page can be anything you like. A contact page, a bio, dates for your upcoming world tour… Anything!</description>
     </item>
     
     <item>
       <title>Long Form Post</title>
-      <link>/posts/long-form-post/</link>
+      <link>https://github.com/megin1989/hugo/posts/long-form-post/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>/posts/long-form-post/</guid>
+      <guid>https://github.com/megin1989/hugo/posts/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
     <item>
       <title>Code Poetry</title>
-      <link>/posts/code-poetry/</link>
+      <link>https://github.com/megin1989/hugo/posts/code-poetry/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>/posts/code-poetry/</guid>
+      <guid>https://github.com/megin1989/hugo/posts/code-poetry/</guid>
       <description>Pseudo code poem.
 if (this === that): try write_new_poem() except not_a_poet as e: return  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://github.com/megin1989/hugo/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://github.com/megin1989/hugo/about/</guid>
       <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way.
 I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
 I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll look great on any screen, and all you have to do is provide a folder of images.</description>
@@ -61,29 +61,29 @@ I also have a simple responsive gallery built with CSS grid. It&amp;rsquo;ll loo
     
     <item>
       <title>Dear Jane, regarding Mr. Bennet</title>
-      <link>/posts/dear-jane/</link>
+      <link>https://github.com/megin1989/hugo/posts/dear-jane/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>/posts/dear-jane/</guid>
+      <guid>https://github.com/megin1989/hugo/posts/dear-jane/</guid>
       <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
     </item>
     
     <item>
       <title>Oh, Alice</title>
-      <link>/posts/oh-alice/</link>
+      <link>https://github.com/megin1989/hugo/posts/oh-alice/</link>
       <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
       
-      <guid>/posts/oh-alice/</guid>
+      <guid>https://github.com/megin1989/hugo/posts/oh-alice/</guid>
       <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
     </item>
     
     <item>
       <title>A Poem</title>
-      <link>/posts/a-poem/</link>
+      <link>https://github.com/megin1989/hugo/posts/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
-      <guid>/posts/a-poem/</guid>
+      <guid>https://github.com/megin1989/hugo/posts/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;

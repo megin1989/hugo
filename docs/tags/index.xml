@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Call me Sam</title>
-    <link>/tags/</link>
+    <link>https://github.com/megin1989/hugo/tags/</link>
     <description>Recent content in Tags on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/megin1989/hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>/tags/blog/</link>
+      <link>https://github.com/megin1989/hugo/tags/blog/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>/tags/blog/</guid>
+      <guid>https://github.com/megin1989/hugo/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classic</title>
-      <link>/tags/classic/</link>
+      <link>https://github.com/megin1989/hugo/tags/classic/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>/tags/classic/</guid>
+      <guid>https://github.com/megin1989/hugo/tags/classic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>/tags/code/</link>
+      <link>https://github.com/megin1989/hugo/tags/code/</link>
       <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
       
-      <guid>/tags/code/</guid>
+      <guid>https://github.com/megin1989/hugo/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poem</title>
-      <link>/tags/poem/</link>
+      <link>https://github.com/megin1989/hugo/tags/poem/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>/tags/poem/</guid>
+      <guid>https://github.com/megin1989/hugo/tags/poem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>/tags/story/</link>
+      <link>https://github.com/megin1989/hugo/tags/story/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>/tags/story/</guid>
+      <guid>https://github.com/megin1989/hugo/tags/story/</guid>
       <description></description>
     </item>
     

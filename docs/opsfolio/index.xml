@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netspective Attest  on Call me Sam</title>
-    <link>/opsfolio/</link>
+    <link>https://github.com/megin1989/hugo/opsfolio/</link>
     <description>Recent content in Netspective Attest  on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/opsfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/megin1989/hugo/opsfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
